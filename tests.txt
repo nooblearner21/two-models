@@ -1,0 +1,6 @@
+
+for hybrid with 10 runs total on last_letter result: The model ran on 350 samples and correctly answered 316 instances for a total accuracy of 90.29%
+
+for gpt 4o mini on last_letter result: the model ran on 350 samples and correctly answered 300 instances for a total accuracy of 85.71%
+
+for haiku 3.5 on last_letter result: the model ran on 350 samples and correctly answered 274 instances for a total accuracy of 78.29%
